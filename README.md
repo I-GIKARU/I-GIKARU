@@ -5,7 +5,7 @@
 I build scalable applications across multiple platforms and technologies, from web frontends to mobile apps and robust backend systems.
 
 ### 💻 Tech Stack
- 
+
 **Frontend & Web**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
