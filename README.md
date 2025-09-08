@@ -29,7 +29,8 @@ I build scalable applications across multiple platforms and technologies, from w
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=I-GIKARU&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=I-GIKARU&show_icons=true&theme=dark&hide_border=true&cache_seconds=1)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=I-GIKARU&layout=compact&theme=dark&hide_border=true&langs_count=11)
 
