@@ -29,9 +29,9 @@ I build scalable applications across multiple platforms and technologies, from w
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=I-GIKARU&show_icons=true&theme=dark&hide_border=true&cache_seconds=3600)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=I-GIKARU&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=I-GIKARU&layout=compact&theme=dark&hide_border=true&langs_count=10&cache_seconds=3600)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=I-GIKARU&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 ### 🔥 Current Focus
 
