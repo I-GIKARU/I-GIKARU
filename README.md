@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Gikaru
-
+ 
 ## 🚀 Full-Stack Developer | Mobile & Web Specialist
 
 I build scalable applications across multiple platforms and technologies, from web frontends to mobile apps and robust backend systems.
